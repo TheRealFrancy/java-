@@ -1,4 +1,3 @@
-package modulo1;
 import javax.swing.JOptionPane;
 
 public class number {
