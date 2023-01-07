@@ -40,20 +40,7 @@ import javax.swing.JOptionPane;
 
 
                     } // end if b
-
-
-
-
-                    /*   double capitale = 1000.0; // il capitale iniziale, in dollari
-                double tassoInteresse = 0.05; // il tasso di interesse del 5%
-                int numeroAnni = 10; // calcoliamo gli interessi per 10 anni
-                for(int i =1; i<numeroAnni; i++){
-
-                   double interessexanno= capitale * tassoInteresse ;
-                   System.out.println("Gli interessi dell'anno"+i+"sono"+interessexanno);
-                   capitale+=interessexanno;
-    }*/
-            continuare=true;
+                 continuare=true;
                 }
 
             }// end main
